@@ -26,8 +26,8 @@ Tree Learning est une application de cours en ligne qui permet aux utilisateurs 
 
 1. Cloner le dépôt :
    ```
-   git clone https://github.com/votre-nom/tree-learning.git
-   cd tree-learning
+   git clone https://github.com/Elvi-2202/application-de-bureau
+   cd APPLICATION DE BUREAU
    ```
 
 2. Configuration du Backend :
